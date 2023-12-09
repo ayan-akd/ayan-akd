@@ -7,14 +7,10 @@
 
 
 ### Current Overview
-<hr/>
-- 🌱 I’m currently learning Next.js.
-<br/>
-- 💬 Ask me about React, Tailwind CSS, HTML, CSS.
-<br/>
+* 🌱 I’m currently learning Next.js.
+* 💬 Ask me about React, Tailwind CSS, HTML, CSS.
 * 📫 Reach me at: ayankumar.akd@gmail.com
-<br/>
-- ⚡ Hobbies: I like playing games, listening to music.
+* ⚡ Hobbies: I like playing games, listening to music.
 
 <hr/>
 
