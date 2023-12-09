@@ -57,12 +57,10 @@
 ## Projects
 
 ## MediCamp
-#### ✔ Ass Sunnah Education Full Stack Website with Mern stack [https://ass-sunnah.netlify.app/](https://ass-sunnah.netlify.app/)
-**Ass Sunnah Github:**
-#### front-end [https://github.com/hasibimamhridoy/asssunnah-education-client](https://github.com/hasibimamhridoy/asssunnah-education-client)
-#### back-end [https://github.com/hasibimamhridoy/asssunnah-education-server](https://github.com/hasibimamhridoy/asssunnah-education-server)
-#### Admin-Email admin@gmail.com
-#### Admin-Pass aaaaaaA1! 
+#### MediCamp Full Stack Website with Mern stack https://medicamp-1eede.web.app/
+**MediCamp Github Repo:**
+* front-end https://github.com/ayan-akd/Medi_Camp_Client
+* back-end https://github.com/ayan-akd/Medi_Camp_Server
 
 ## Heroverse
 #### ✔ Heroverse full stack Website with Mern stack [https://heroverse.netlify.app/](https://heroverse.netlify.app/)
