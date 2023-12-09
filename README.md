@@ -57,10 +57,10 @@
 ## Projects
 
 ## MediCamp
-#### MediCamp Full Stack Website with Mern stack https://medicamp-1eede.web.app/
+#### MediCamp Full Stack Website with Mern stack
 **MediCamp Github Repo:**
-* front-end https://github.com/ayan-akd/Medi_Camp_Client
-* back-end https://github.com/ayan-akd/Medi_Camp_Server
+* front-end: https://github.com/ayan-akd/Medi_Camp_Client
+* back-end: https://github.com/ayan-akd/Medi_Camp_Server
 
 ## Heroverse
 #### ✔ Heroverse full stack Website with Mern stack [https://heroverse.netlify.app/](https://heroverse.netlify.app/)
