@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/ayan-akd/ayan-akd/assets/93831664/a3e8534f-b620-40ec-889a-0874a9a5c8c5)
+![github-header-image (2)](https://github.com/ayan-akd/ayan-akd/assets/93831664/2710e3e2-09f1-4edf-954b-1a9d875783e7)
 
 ### <div align="center">Hi, I'm Ayan Kumar Das</div>
 
