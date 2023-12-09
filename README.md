@@ -8,7 +8,7 @@
 
 ### Current Overview
 * 🌱 I’m currently learning Next.js.
-* 💬 Ask me about React, Tailwind CSS, HTML, CSS.
+* ❓ Ask me about React, Tailwind CSS, HTML, CSS.
 * 📫 Reach me at: ayankumar.akd@gmail.com
 * ⚡ Hobbies: I like playing games, listening to music.
 
