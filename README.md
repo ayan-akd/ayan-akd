@@ -1,7 +1,6 @@
 
-<div style="text-align: center;">
-  ![github-header-image](https://github.com/ayan-akd/ayan-akd/assets/93831664/6a4a1630-5fbf-4aec-9093-5213a5fa11ea)
-</div>
+![github-header-image (1)](https://github.com/ayan-akd/ayan-akd/assets/93831664/319a3466-830d-49fb-a1e5-120210a9eb6c)
+
 
 
 
