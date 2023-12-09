@@ -65,7 +65,7 @@ I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoD
 
 <br/>  
 
-## Projects
+## My Projects
 
 ## MediCamp
 #### MediCamp Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
