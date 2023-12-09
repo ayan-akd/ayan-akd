@@ -4,7 +4,7 @@
 ### <div align="center">Hi, I'm Ayan Kumar Das</div>
 
 <div align="center"> 
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A909F7&random=false&width=435&lines=A+MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A909F7&center=true&vCenter=true&random=false&width=435&lines=A+MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>  
 
 <br/>  
