@@ -61,30 +61,18 @@
 **MediCamp Github Repo:**
 * front-end: https://github.com/ayan-akd/Medi_Camp_Client
 * back-end: https://github.com/ayan-akd/Medi_Camp_Server
-####Features:
-* Role-based access system.
-* Payment gateway with Stripe.
-* JWT Authentication.
 
 ## Wanderland
 #### Wanderland Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
 **Wanderland Github Repo:**
 * front-end: https://github.com/ayan-akd/WanderLand
 * back-end: https://github.com/ayan-akd/wanderland-server
-####Features:
-* Framer Motion used for some animations.
-* Ability to comment on blogs which is not your own.
-* User-specific bookmarks.
 
 ## Techno City
 #### Techno City Full Stack Website with Mern stack: https://akd-techno-city.web.app/
 **Techno City Github Repo:**
 * front-end: https://github.com/ayan-akd/technoCity
 * back-end: https://github.com/ayan-akd/techno-city-server
-####Features:
-* Firebase Authentication.
-* Cart system for adding your choice of mobile devices.
-* JWT Authentication.
 
 
 <!--
