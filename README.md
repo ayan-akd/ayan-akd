@@ -1,9 +1,9 @@
 
+![github-header-image](https://github.com/ayan-akd/ayan-akd/assets/93831664/6a4a1630-5fbf-4aec-9093-5213a5fa11ea)
+
+
 
 ### Hi there 👋
-
-![ezgif com-crop](https://github.com/ayan-akd/ayan-akd/assets/93831664/74a045c1-02be-4665-bcf0-cc1ec6d41597)
-
 
 <!--
 **ayan-akd/ayan-akd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
