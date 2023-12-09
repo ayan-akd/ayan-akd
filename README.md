@@ -61,8 +61,7 @@
 **MediCamp Github Repo:**
 * front-end: https://github.com/ayan-akd/Medi_Camp_Client
 * back-end: https://github.com/ayan-akd/Medi_Camp_Server
-<br/>
-**Features:**
+####Features:
 * Role-based access system.
 * Payment gateway with Stripe.
 * JWT Authentication.
@@ -72,8 +71,7 @@
 **Wanderland Github Repo:**
 * front-end: https://github.com/ayan-akd/WanderLand
 * back-end: https://github.com/ayan-akd/wanderland-server
-<br/>
-**Features:**
+####Features:
 * Framer Motion used for some animations.
 * Ability to comment on blogs which is not your own.
 * User-specific bookmarks.
@@ -83,8 +81,7 @@
 **Techno City Github Repo:**
 * front-end: https://github.com/ayan-akd/technoCity
 * back-end: https://github.com/ayan-akd/techno-city-server
-<br/>
-**Features:**
+####Features:
 * Firebase Authentication.
 * Cart system for adding your choice of mobile devices.
 * JWT Authentication.
