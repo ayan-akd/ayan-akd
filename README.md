@@ -1,4 +1,4 @@
-[<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/11a5205c-7aac-4d29-b79a-4a7bd4a5de1a/XIQnieVF38.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>](https://lottie.host/embed/11a5205c-7aac-4d29-b79a-4a7bd4a5de1a/XIQnieVF38.json)
+
 
 ### Hi there 👋
 
