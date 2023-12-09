@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+![ezgif com-crop](https://github.com/ayan-akd/ayan-akd/assets/93831664/74a045c1-02be-4665-bcf0-cc1ec6d41597)
+
+
 <!--
 **ayan-akd/ayan-akd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
