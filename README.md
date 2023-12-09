@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning Next.js.
 <br/>
 - 💬 Ask me about React, Tailwind CSS.
+<br/>
+- 📫 Reach me at : ayankumar.akd@gmail.com
 
 <hr/>
 
