@@ -104,16 +104,16 @@ Here are some ideas to get you started:
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/ayan-akd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://github.com/ayan-akd/ayan-akd/blob/7625983ee526c840f7c46ce0bb90bc0dffe5aa5c/icons8-github-96.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ayan-kumar-akd" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://github.com/ayan-akd/ayan-akd/blob/7625983ee526c840f7c46ce0bb90bc0dffe5aa5c/icons8-linkedin-96.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/akd444" target="_blank">
 <img src=https://github.com/ayan-akd/ayan-akd/blob/925f360f21b3a4817e54d63ca8fcb54995fb2349/icons8-facebook-96.png?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/akd420v2" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://github.com/ayan-akd/ayan-akd/blob/7625983ee526c840f7c46ce0bb90bc0dffe5aa5c/icons8-instagram-96.png?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
