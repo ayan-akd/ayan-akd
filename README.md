@@ -42,7 +42,7 @@ I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoD
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
 <a href="https://skillicons.dev">
-    <img style="margin: 10px" height="75" src="https://skillicons.dev/icons?i=express" />
+    <img style="margin: 10px" height="75" src="https://skillicons.dev/icons?i=express,nodejs" />
   </a>
 </div>
 
