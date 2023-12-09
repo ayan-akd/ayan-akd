@@ -11,6 +11,7 @@
 - 💬 Ask me about React, Tailwind CSS, HTML, CSS.
 <br/>
 - 📫 Reach me at [ayankumar.akd@gmail.com](mailto:ayankumar.akd@gmail.com)
+- ⚡ Hobbies: I like playing games, listening to music.
 
 <hr/>
 
