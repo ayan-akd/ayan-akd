@@ -1,5 +1,8 @@
 
-![github-header-image](https://github.com/ayan-akd/ayan-akd/assets/93831664/6a4a1630-5fbf-4aec-9093-5213a5fa11ea)
+<div style="text-align: center;">
+  ![github-header-image](https://github.com/ayan-akd/ayan-akd/assets/93831664/6a4a1630-5fbf-4aec-9093-5213a5fa11ea)
+</div>
+
 
 
 
