@@ -8,8 +8,8 @@
 Current Overview
 <hr/>
 - 🌱 I’m currently learning Next.js.
+<br/>
 - 💬 Ask me about React, Tailwind CSS.
-- 
 
 
 <!--
