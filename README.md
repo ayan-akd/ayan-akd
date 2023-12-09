@@ -61,7 +61,7 @@
 **MediCamp Github Repo:**
 * front-end: https://github.com/ayan-akd/Medi_Camp_Client
 * back-end: https://github.com/ayan-akd/Medi_Camp_Server
-* *Features:**
+**Features:**
 * Role-based access system.
 * Payment gateway with Stripe.
 * JWT Authentication.
