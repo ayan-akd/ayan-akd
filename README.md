@@ -3,7 +3,9 @@
 
 ### <div align="center">Hi, I'm Ayan Kumar Das</div>
 
-<div align="center"> A MERN Stack Developer 👨‍💻</div>  
+<div align="center"> 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A909F7&random=false&width=435&lines=A+MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> 
+</div>  
 
 <br/>  
 I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoDB, Mongoose, Tailwind CSS, Firebase Authentication, and JWT. While I don't have formal job experience, I showcase a strong commitment to mastering the MERN stack through hands-on projects. I'm an eager learner with a passion for creating seamless user experiences and am ready to contribute to dynamic web development teams.
