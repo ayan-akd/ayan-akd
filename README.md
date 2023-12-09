@@ -8,9 +8,9 @@
 <hr/>
 - 🌱 I’m currently learning Next.js.
 <br/>
-- 💬 Ask me about React, Tailwind CSS.
+- 💬 Ask me about React, Tailwind CSS, HTML, CSS.
 <br/>
-- 📫 How to reach me **ayankumarakd@gmail.com**
+- 📫 Reach me at : ayankumar.akd@gmail.com
 
 <hr/>
 
