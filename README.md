@@ -10,7 +10,7 @@
 <br/>
 - 💬 Ask me about React, Tailwind CSS.
 <br/>
-- 📫 Reach me at : **ayankumar.akd@gmail.com**
+- 📫 How to reach me **ayankumarakd@gmail.com**
 
 <hr/>
 
