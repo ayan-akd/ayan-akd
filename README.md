@@ -53,6 +53,9 @@ I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoD
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
+  <a href="https://skillicons.dev%22%3E/
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </div>
 
 </td></tr></table>  
