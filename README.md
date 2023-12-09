@@ -57,22 +57,22 @@
 ## Projects
 
 ## MediCamp
-#### MediCamp Full Stack Website with Mern stack
+#### MediCamp Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
 **MediCamp Github Repo:**
 * front-end: https://github.com/ayan-akd/Medi_Camp_Client
 * back-end: https://github.com/ayan-akd/Medi_Camp_Server
 
-## Heroverse
-#### ✔ Heroverse full stack Website with Mern stack [https://heroverse.netlify.app/](https://heroverse.netlify.app/)
-**Heroverse Github:**
-#### front-end [https://github.com/hasibimamhridoy/heroverse-client](https://github.com/hasibimamhridoy/heroverse-client)
-#### back-end [https://github.com/hasibimamhridoy/heroverse-server](https://github.com/hasibimamhridoy/heroverse-server)
+## Wanderland
+#### Wanderland Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
+**Wanderland Github Repo:**
+* front-end: https://github.com/ayan-akd/Medi_Camp_Client
+* back-end: https://github.com/ayan-akd/Medi_Camp_Server
 
-## Cooking Light
-#### ✔ Cooking Light full stack Website with Mern stack [https://cooking-light.netlify.app/](https://heroverse.netlify.app/)
-**Cooking Light Github:**
-#### front-end [https://github.com/hasibimamhridoy/cooking-light](https://github.com/hasibimamhridoy/cooking-light)
-#### back-end [https://github.com/hasibimamhridoy/cooking-light-server](https://github.com/hasibimamhridoy/cooking-light-server)
+## Techno City
+#### Techno City Full Stack Website with Mern stack: https://akd-techno-city.web.app/
+**Techno City Github Repo:**
+* front-end: https://github.com/ayan-akd/Medi_Camp_Client
+* back-end: https://github.com/ayan-akd/Medi_Camp_Server
 
 
 <!--
