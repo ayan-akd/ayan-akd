@@ -1,6 +1,4 @@
 
-![github-header-image (1)](https://github.com/ayan-akd/ayan-akd/assets/93831664/319a3466-830d-49fb-a1e5-120210a9eb6c)
-
 
 
 
