@@ -74,7 +74,7 @@ I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoD
 * back-end: https://github.com/ayan-akd/Medi_Camp_Server
 
 ## Wanderland
-#### Wanderland Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
+#### Wanderland Full Stack Website with Mern stack: https://akd-wanderland.web.app/
 **Wanderland Github Repo:**
 * front-end: https://github.com/ayan-akd/WanderLand
 * back-end: https://github.com/ayan-akd/wanderland-server
