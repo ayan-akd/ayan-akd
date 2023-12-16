@@ -8,16 +8,16 @@
 </div>  
 
 <br/>  
-I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoDB, Mongoose, Tailwind CSS, Firebase Authentication, and JWT. While I don't have formal job experience, I showcase a strong commitment to mastering the MERN stack through hands-on projects. I'm an eager learner with a passion for creating seamless user experiences and am ready to contribute to dynamic web development teams.
+I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoDB, Mongoose, Tailwind CSS, Firebase Authentication, and JWT. While I don't have formal job experience, I am strongly committed to mastering the MERN stack through hands-on projects. I'm an eager learner with a passion for creating seamless user experiences and I am ready to contribute to dynamic web development teams.
 
 <br/>  
 
 
 ### Current Overview
 * 🌱 I’m currently learning Next.js.
-* ❓ Ask me about React, Tailwind CSS, HTML, CSS.
+* ❓ Ask me about React, Tailwind CSS, HTML and CSS.
 * 📫 Reach me at: ayankumar.akd@gmail.com
-* ⚡ Hobbies: I like playing games, listening to music.
+* ⚡ Hobbies: I like playing games and listening to music.
 
 <hr/>
 
