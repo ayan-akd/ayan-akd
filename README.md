@@ -32,6 +32,9 @@ I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoD
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
+   <a href="https://skillicons.dev">
+    <img style="margin: 10px" height="75" src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
 </div>
 
 </td><td valign="top" width="33%">
