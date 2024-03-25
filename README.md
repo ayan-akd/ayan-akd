@@ -80,7 +80,7 @@ SwiftInbox is a team project I worked on. It offers temporary email addresses wi
   
 **Technology Used:** Tailwind, React, Mongoose, Stripe, Firebase.
 
-**MediCamp Github Repo:**
+**SwiftInbox Github Repo:**
 * front-end: https://github.com/mdshahadat12/SwiftInbox-Client
 * back-end: https://github.com/mdshahadat12/SwiftInbox-Server
 
