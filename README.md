@@ -78,6 +78,7 @@ provide feedback. Easily find and join camps, make secure payments via Stripe, a
 * Payment gateway with Stripe for secure payment for interested camps.
 * Nodemailer to send confirmation emails to both participants and organizers post-payment.
 **Technology Used:** Tailwind, React, Mongoose, Stripe, Firebase, JWT, Nodemailer <br/>
+
 **MediCamp Github Repo:**
 * front-end: https://github.com/ayan-akd/Medi_Camp_Client
 * back-end: https://github.com/ayan-akd/Medi_Camp_Server
