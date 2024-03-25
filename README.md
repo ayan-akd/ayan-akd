@@ -73,6 +73,7 @@ I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoD
 #### MediCamp Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
 Simplify your medical camp experience with MediCamp. Explore popular camps, use role-based access, and
 provide feedback. Easily find and join camps, make secure payments via Stripe, and receive emails.
+
 **Key Features:**
 * Role-based access system with Organizer, Healthcare professionals, and Participants.
 * Payment gateway with Stripe for secure payment for interested camps.
