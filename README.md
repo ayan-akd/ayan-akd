@@ -87,6 +87,16 @@ provide feedback. Easily find and join camps, make secure payments via Stripe, a
 
 ## Wanderland
 #### Wanderland Full Stack Website with Mern stack: https://akd-wanderland.web.app/
+Experience WanderLand: dynamic UI, recent blogs with wish lists, comments, and easy search. Explore the top
+ten featured blogs, view images in full-screen, and securely manage content with private routes.
+
+**Key Features:**
+* Framer Motion is used for some animations on various parts of the website.
+* Ability to comment on blogs when logged in and if it is not your blog.
+* JWT Authentication for ensuring data integrity and preventing tampering.
+  
+**Technology Used:** Tailwind, React, MongoDB, JWT
+
 **Wanderland Github Repo:**
 * front-end: https://github.com/ayan-akd/WanderLand
 * back-end: https://github.com/ayan-akd/wanderland-server
