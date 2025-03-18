@@ -85,20 +85,21 @@ authentication, prescription uploads, and integrated payment system.
 * front-end: https://github.com/ayan-akd/mediMart-client
 * back-end: https://github.com/ayan-akd/mediMart-server
 
-## MediCamp
-#### MediCamp Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
-Simplify your medical camp experience with MediCamp. Explore popular camps, use role-based access, and provide feedback. Easily find and join camps, make secure payments via Stripe, and receive emails.
+## Pedal Paradise
+#### Pedal Paradise Full Stack Website: https://pedal-paradise-client.vercel.app/
+Modern bicycle store with intuitive shopping interface and admin dashboard featuring secure authentication, 
+payment processing, and business analytics. 
 
 **Key Features:**
-* Role-based access system with Organizer, Healthcare professionals, and Participants.
-* Payment gateway with Stripe for secure payment for interested camps.
-* Nodemailer to send confirmation emails to both participants and organizers post-payment.
+* JWT-based authentication with role-based access control for customers and administrators.
+* Secure payment gateway integration with multiple payment methods and transaction tracking.
+* Interactive admin dashboard with sales analytics, inventory management, and user controls.
   
-**Technology Used:** Tailwind, React, Mongoose, Stripe, Firebase, JWT, Nodemailer
+**Technology Used:** React.js, TypeScript, Redux Toolkit, RTK Query, Ant Design, Mongoose, Shurjo Pay.
 
-**MediCamp Github Repo:**
-* front-end: https://github.com/ayan-akd/Medi_Camp_Client
-* back-end: https://github.com/ayan-akd/Medi_Camp_Server
+**Pedal Paradise Github Repo:**
+* front-end: https://github.com/ayan-akd/b4-assignment-4-bicycle-store-client
+* back-end: https://github.com/ayan-akd/b4-assignment-4-bicycle-store-server
 
 
 
