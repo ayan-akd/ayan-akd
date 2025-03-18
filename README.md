@@ -8,7 +8,10 @@
 </div>  
 
 <br/>  
-I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoDB, Mongoose, Tailwind CSS, Firebase Authentication, and JWT. While I don't have formal job experience, I am strongly committed to mastering the MERN stack through hands-on projects. I'm an eager learner with a passion for creating seamless user experiences and I am ready to contribute to dynamic web development teams.
+Dedicated Full stack developer with strong expertise in React.js, Next.js, and frontend technologies. Proven 
+ability to build responsive, user-focused web applications through multiple full-stack projects. Seeking a 
+challenging developer position where I can leverage my technical skills in JavaScript, TypeScript, and 
+modern web frameworks to create impactful digital solutions.
 
 <br/>  
 
