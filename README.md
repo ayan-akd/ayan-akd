@@ -69,20 +69,21 @@ I'm an aspiring web developer proficient in HTML, CSS, React.js, Node.js, MongoD
 
 ## My Projects
 
-## SwiftInbox
-#### SwiftInbox Full Stack Website with Mern stack: https://swiftinbox.netlify.app/
-SwiftInbox is a team project I worked on. It offers temporary email addresses with ease. Create and manage short-term email addresses effortlessly. Simplify your temporary email needs with SwiftInbox.
+## MediMart
+#### MediMart Full Stack Website: https://medimart-akd.vercel.app/
+Modern medicine e-commerce platform with intuitive interface and admin dashboard featuring secure 
+authentication, prescription uploads, and integrated payment system. 
 
 **Key Features:**
-* Temporary Email generation with multiple domain choices and custom email generation.
-* Email syncing and bookmarking only while logged in via email or Google or GitHub.
-* Read, Unread, Labeling, Filter, and Sorting Feature to easily manage your mails.
+* JWT-based authentication with role-based access control for customers and administrators. 
+* Prescription upload functionality for medicines that require verification before purchase.
+* Admin dashboard for managing products, orders, users, and payment verification. 
   
-**Technology Used:** Tailwind, React, Mongoose, Stripe, Firebase.
+**Technology Used:** Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Shadcn UI, Mongoose, ShurjoPay 
 
-**SwiftInbox Github Repo:**
-* front-end: https://github.com/mdshahadat12/SwiftInbox-Client
-* back-end: https://github.com/mdshahadat12/SwiftInbox-Server
+**MediMart Github Repo:**
+* front-end: https://github.com/ayan-akd/mediMart-client
+* back-end: https://github.com/ayan-akd/mediMart-server
 
 ## MediCamp
 #### MediCamp Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
@@ -99,35 +100,24 @@ Simplify your medical camp experience with MediCamp. Explore popular camps, use 
 * front-end: https://github.com/ayan-akd/Medi_Camp_Client
 * back-end: https://github.com/ayan-akd/Medi_Camp_Server
 
-## Wanderland
-#### Wanderland Full Stack Website with Mern stack: https://akd-wanderland.web.app/
-Experience WanderLand: dynamic UI, recent blogs with wish lists, comments, and easy search. Explore the top ten featured blogs, view images in full-screen, and securely manage content with private routes.
+
+
+## MediCamp
+#### MediCamp Full Stack Website with Mern stack: https://medicamp-1eede.web.app/
+Simplify your medical camp experience with MediCamp. Explore popular camps, use role-based access, and provide feedback. Easily find and join camps, make secure payments via Stripe, and receive emails.
 
 **Key Features:**
-* Framer Motion is used for some animations on various parts of the website.
-* Ability to comment on blogs when logged in and if it is not your blog.
-* JWT Authentication for ensuring data integrity and preventing tampering.
+* Role-based access system with Organizer, Healthcare professionals, and Participants.
+* Payment gateway with Stripe for secure payment for interested camps.
+* Nodemailer to send confirmation emails to both participants and organizers post-payment.
   
-**Technology Used:** Tailwind, React, MongoDB, JWT
+**Technology Used:** Tailwind, React, Mongoose, Stripe, Firebase, JWT, Nodemailer
 
-**Wanderland Github Repo:**
-* front-end: https://github.com/ayan-akd/WanderLand
-* back-end: https://github.com/ayan-akd/wanderland-server
+**MediCamp Github Repo:**
+* front-end: https://github.com/ayan-akd/Medi_Camp_Client
+* back-end: https://github.com/ayan-akd/Medi_Camp_Server
 
-## Techno City
-#### Techno City Full Stack Website with Mern stack: https://akd-techno-city.web.app/
-Tech meets style in Techno City. Explore a banner slider, discover 6 top brands, and enjoy hassle-free login and registration. Add products securely with private routes and manage your cart effortlessly.
 
-**Key Features:**
-* Firebase Authentication.
-* Switch between dark mode and light mode.
-* Cart system for adding your choice of mobile devices.
-  
-**Technology Used:** Tailwind, React, MongoDB.
-
-**Techno City Github Repo:**
-* front-end: https://github.com/ayan-akd/technoCity
-* back-end: https://github.com/ayan-akd/techno-city-server
 
 
 <!--
